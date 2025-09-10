@@ -7,6 +7,15 @@
 ## Overview
 This category manages all medical and health-related information for senior citizen transition planning. The medical-research-agent coordinates with healthcare providers, manages care protocols, and ensures comprehensive health management.
 
+### 🏥 **[MEDICAL TEAM GUIDE](MEDICAL_TEAM_GUIDE.md)**
+**Essential Resource**: Comprehensive guide for assembling the optimal healthcare team
+- Core medical team (primary care, pharmacist, care coordinator)
+- Specialist team (cardiology, neurology, orthopedics, ophthalmology, etc.)
+- Mental health and social support team
+- Allied health and therapy team
+- Emergency and crisis team coordination
+- Provider evaluation criteria and selection guidelines
+
 ## Folder Structure
 
 ### 📋 Medical Records
@@ -36,6 +45,13 @@ This category manages all medical and health-related information for senior citi
 - **supplemental_policies/**: Medigap policies, long-term care insurance, dental/vision coverage
 - **claims_documentation/**: Insurance claims, prior authorizations, appeals and denials
 - **provider_networks/**: In-network providers, referral requirements, coverage limitations
+
+### 👥 Medical Team Assembly
+**Reference**: `MEDICAL_TEAM_GUIDE.md`
+- **Essential Team Members**: Primary care, specialists, mental health, allied health, home care
+- **Team Coordination**: Communication protocols, care meetings, shared records
+- **Provider Selection**: Quality indicators, geriatric experience, accessibility factors
+- **Insurance Integration**: Coverage verification, cost management, benefit optimization
 
 ## File Naming Standards
 
