@@ -97,6 +97,13 @@ YYYY-MM-DD_[CATEGORY]_[description]_[version]_[STATUS].[extension]
 - `2024-05-01_PURP_volunteer-work_literacy-program_training-materials_v1.0_FINAL.pdf`
 - `2024-05-05_PURP_goal-setting_quarterly-objectives_Q2-2024_v1.0_FINAL.docx`
 
+### Real Estate & Property Documents
+- `2024-05-10_REAL_market-analysis_comparable-sales-report_v1.0_FINAL.pdf`
+- `2024-05-15_REAL_staging-plan_home-preparation-strategy_v2.0_REVIEW.docx`
+- `2024-05-20_REAL_estate-sale_inventory-appraisal_v1.0_FINAL.xlsx`
+- `2024-05-25_REAL_new-home_accessibility-assessment_v1.1_DRAFT.pdf`
+- `2024-05-30_REAL_transaction_purchase-contract_v1.0_FINAL.pdf`
+
 ### Coordination & Communication Documents
 - `2024-05-10_COORD-FAM_family-meeting_care-plan-discussion_v1.0_FINAL.docx`
 - `2024-05-15_COORD_progress-report_monthly-summary_May-2024_v1.0_FINAL.pdf`

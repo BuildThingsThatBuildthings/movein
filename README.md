@@ -1,7 +1,7 @@
 # Senior Citizen Transition Management System
 
 ## Overview
-This comprehensive organizational system supports senior citizens transitioning to live with their loved ones. The system coordinates 9 specialized Claude Code subagents across 7 core areas of transition planning and management.
+This comprehensive organizational system supports senior citizens transitioning to live with their loved ones. The system coordinates 13 specialized Claude Code subagents across 8 core areas of transition planning and management.
 
 ## System Architecture
 
@@ -35,10 +35,37 @@ This comprehensive organizational system supports senior citizens transitioning 
 - Legacy projects, knowledge sharing, meaningful engagement
 - Goal setting and achievement tracking
 
+### 🏡 08_Real_Estate_Property
+**Responsible Agents**: Real Estate Specialist Team
+- Property sale preparation, liquidation, and new home research
+- Transaction coordination and professional service management
+
 ### 🤝 07_Coordination_Communication
 **Responsible Agent**: `data-organization-agent` + All Agents
 - Inter-agent communication, family coordination
 - Professional service integration and system management
+
+## Real Estate Specialist Agents
+
+### 🏠 Property Sale Preparation Agent (`property-sale-prep-agent`)
+- Market analysis, home staging, and repair coordination
+- Marketing strategy and listing optimization
+- Professional service coordination for property sales
+
+### 💼 Property Liquidation Agent (`property-liquidation-agent`)
+- Estate sales management and personal property valuation
+- Family heirloom distribution and donation coordination
+- Asset disposition and liquidation strategy
+
+### 🔍 New Home Research Agent (`new-home-research-agent`)
+- Housing options analysis and accessibility assessment
+- Community research and location optimization
+- Financial analysis and affordability planning
+
+### 📋 Real Estate Coordinator Agent (`real-estate-coordinator-agent`)
+- Transaction timeline management and professional coordination
+- Documentation oversight and crisis management
+- Family communication and decision support
 
 ## Supporting Specialized Agents
 
@@ -90,6 +117,12 @@ This comprehensive organizational system supports senior citizens transitioning 
 - [Meaningful Engagement](06_purpose_legacy/meaningful_engagement/) - Volunteer work, creative projects, learning
 - [Purpose Coordination](06_purpose_legacy/purpose_coordination/) - Goal setting, progress tracking, achievement
 
+### Real Estate & Property
+- [Property Sale](08_real_estate_property/property_sale/) - Market analysis, staging, marketing, negotiations
+- [Property Liquidation](08_real_estate_property/property_liquidation/) - Estate sales, personal property, donations
+- [New Home Research](08_real_estate_property/new_home_research/) - Location analysis, housing options, accessibility
+- [Transaction Coordination](08_real_estate_property/transaction_coordination/) - Professional services, timelines, documentation
+
 ### Coordination & Communication
 - [Agent Coordination](07_coordination_communication/agent_coordination/) - Inter-agent communication, workflow, priorities
 - [Family Communication](07_coordination_communication/family_communication/) - Meetings, decisions, progress reports
@@ -100,7 +133,7 @@ This comprehensive organizational system supports senior citizens transitioning 
 
 ### Naming Conventions
 - **Date Format**: YYYY-MM-DD for chronological sorting
-- **Category Codes**: MED, LEG, FIN, HOME, LIFE, PURP, COORD
+- **Category Codes**: MED, LEG, FIN, HOME, LIFE, PURP, REAL, COORD
 - **Version Control**: v1.0, v1.1, v2.0 format
 - **Status Indicators**: DRAFT, REVIEW, FINAL, ARCHIVED
 
@@ -135,7 +168,7 @@ This comprehensive organizational system supports senior citizens transitioning 
 
 ---
 
-**System Version**: 1.0  
+**System Version**: 2.0  
 **Last Updated**: 2024  
-**Managed by**: 9 Specialized Claude Code Subagents  
+**Managed by**: 13 Specialized Claude Code Subagents  
 **Security Level**: AES-256 Encrypted, Family Access Controlled
